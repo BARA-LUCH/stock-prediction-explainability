@@ -107,15 +107,9 @@ stock-prediction-explainability/
 
 *Top features: RSI, MACD_Hist, BB_Position, Volatility_20d, Returns_5d*
 
-> Note: Stock prediction is inherently difficult. These results are for research purposes and not financial advice.
 
----
 
-## ⚠️ Disclaimer
 
-This project is for **educational and portfolio purposes only**. It is not financial advice. Do not use model predictions for real trading decisions.
-
----
 
 ## 👤 Author
 
